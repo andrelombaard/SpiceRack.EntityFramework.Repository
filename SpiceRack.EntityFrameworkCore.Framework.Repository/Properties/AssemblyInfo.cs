@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("EntityFramework.Repository")]
+[assembly: AssemblyTitle("SpiceRack.EntityFrameworkCore.Framework.Repository")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("EntityFramework.Repository")]
+[assembly: AssemblyProduct("SpiceRack.EntityFrameworkCore.Framework.Repository")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("8e9b11a8-8762-43e2-8d10-0e70775f1f74")]
+[assembly: Guid("53bcd1ec-904e-43a7-8fee-767764c3aad5")]
 
 // Version information for an assembly consists of the following four values:
 //
