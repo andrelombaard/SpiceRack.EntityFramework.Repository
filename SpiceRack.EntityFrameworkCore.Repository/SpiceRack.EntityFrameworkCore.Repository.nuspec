@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SpiceRack.EntityFrameworkCore.Repository</id>
+    <version>1.0.0</version>
+    <title>SpiceRack.EntityFrameworkCore.Repository</title>
+    <authors>Andre Lombaard</authors>
+    <owners>Andre Lombaard</owners>
+    <licenseUrl>https://www.gnu.org/licenses/gpl-3.0.en.html</licenseUrl>
+    <projectUrl>https://github.com/andrelombaard/SpiceRack.EntityFramework.Repository</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>A lightweight extension of EntityFrameworkCore that is implementing the Repository design pattern.</description>
+    <releaseNotes>Release of version 1.0.0</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>EntityFrameworkCore Repository</tags>
+  </metadata>
+</package>
