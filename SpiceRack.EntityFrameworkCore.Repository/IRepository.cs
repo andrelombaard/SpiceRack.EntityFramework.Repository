@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace SpiceRack.EntityFrameworkCore.Framework.Repository
+namespace SpiceRack.EntityFrameworkCore.Repository
 {
     public interface IRepository<TType> : IDisposable
     {

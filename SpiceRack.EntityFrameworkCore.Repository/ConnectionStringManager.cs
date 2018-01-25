@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Configuration;
 
-namespace SpiceRack.EntityFrameworkCore.Framework.Repository
+namespace SpiceRack.EntityFrameworkCore.Repository
 {
     public class ConnectionStringManager
     {
@@ -19,7 +19,9 @@ namespace SpiceRack.EntityFrameworkCore.Framework.Repository
 
         private string GetConnectionStringFromWebAppConfigFile(string connectionStringName = "DatabaseContext")
         {
-            var connectionString = ConfigurationManager.ConnectionStrings[$@"{connectionStringName}"].ConnectionString;
+            var connectionString = string.Empty;
+                
+                // ConfigurationManager.ConnectionStrings[$@"{connectionStringName}"].ConnectionString;
 
             return connectionString;
         }

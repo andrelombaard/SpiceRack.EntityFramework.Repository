@@ -3,7 +3,7 @@ using System;
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace SpiceRack.EntityFrameworkCore.Framework.Repository
+namespace SpiceRack.EntityFrameworkCore.Repository
 {
     public class Repository<TType, TDatabaseContext, TViewContext> : IRepository<TType>
         where TType : class

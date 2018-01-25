@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiceRack.EntityFrameworkCore.Framework.Repository", "SpiceRack.EntityFrameworkCore.Framework.Repository\SpiceRack.EntityFrameworkCore.Framework.Repository.csproj", "{53BCD1EC-904E-43A7-8FEE-767764C3AAD5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiceRack.EntityFrameworkCore.Repository", "SpiceRack.EntityFrameworkCore.Repository\SpiceRack.EntityFrameworkCore.Repository.csproj", "{362C838D-9B53-4666-BD80-F0D363177A93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{53BCD1EC-904E-43A7-8FEE-767764C3AAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{53BCD1EC-904E-43A7-8FEE-767764C3AAD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{53BCD1EC-904E-43A7-8FEE-767764C3AAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{53BCD1EC-904E-43A7-8FEE-767764C3AAD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{362C838D-9B53-4666-BD80-F0D363177A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362C838D-9B53-4666-BD80-F0D363177A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362C838D-9B53-4666-BD80-F0D363177A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362C838D-9B53-4666-BD80-F0D363177A93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

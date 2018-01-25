@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 
-namespace SpiceRack.EntityFrameworkCore.Framework.Repository
+namespace SpiceRack.EntityFrameworkCore.Repository
 {
     public static class ApplicationConfiguration
     {

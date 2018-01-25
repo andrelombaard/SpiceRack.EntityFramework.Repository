@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace SpiceRack.EntityFrameworkCore.Framework.Repository
+namespace SpiceRack.EntityFrameworkCore.Repository
 {
     public class DatabaseContext : DbContext
     {
