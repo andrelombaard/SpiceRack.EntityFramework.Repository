@@ -11,6 +11,9 @@ namespace SpiceRack.EntityFrameworkCore.Repository
         {
             var file = System.Reflection.Assembly.GetExecutingAssembly().Location;
             //var doc = XDocument.Load();
+
+
+            var test = 1;
         }
     }
 }
