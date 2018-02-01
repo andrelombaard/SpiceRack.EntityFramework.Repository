@@ -7,10 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpiceRack.EntityFrameworkCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiceRack.EntityFramework.Repository.Test", "SpiceRack.EntityFramework.Repository.Test\SpiceRack.EntityFramework.Repository.Test.csproj", "{8F34CA09-B7D3-43EA-BDB4-5E82166F9454}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{7DE622DC-1DEE-4D0D-9B1E-5C19D48B5C9A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiceRack.NetFramework.EntityFrameworkCore.Repository", "SpiceRack.NetFramework.EntityFrameworkCore.Repository\SpiceRack.NetFramework.EntityFrameworkCore.Repository.csproj", "{66725AD9-4045-465B-AA53-00B7ACDC5FB9}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,16 +21,9 @@ Global
 		{8F34CA09-B7D3-43EA-BDB4-5E82166F9454}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F34CA09-B7D3-43EA-BDB4-5E82166F9454}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F34CA09-B7D3-43EA-BDB4-5E82166F9454}.Release|Any CPU.Build.0 = Release|Any CPU
-		{66725AD9-4045-465B-AA53-00B7ACDC5FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{66725AD9-4045-465B-AA53-00B7ACDC5FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{66725AD9-4045-465B-AA53-00B7ACDC5FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{66725AD9-4045-465B-AA53-00B7ACDC5FB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{66725AD9-4045-465B-AA53-00B7ACDC5FB9} = {7DE622DC-1DEE-4D0D-9B1E-5C19D48B5C9A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BD4510FF-BCE2-47BF-912F-E931A9B591F4}
