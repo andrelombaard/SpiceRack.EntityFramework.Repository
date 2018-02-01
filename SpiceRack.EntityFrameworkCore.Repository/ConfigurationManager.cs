@@ -8,7 +8,7 @@ namespace SpiceRack.EntityFrameworkCore.Repository
 {
     public static class ConfigurationManager
     {
-        private static Dictionary<string, string> ConnectionStrings = new Dictionary<string, string>();
+        private static readonly Dictionary<string, string> ConnectionStrings = new Dictionary<string, string>();
 
         public static string GetConnectionString(string name)
         {
